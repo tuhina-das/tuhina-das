@@ -1,5 +1,5 @@
 ## Hey there, I'm Tuhina! 🫶
-- ✨ I'm an aspiring software engineer
+- ✨ I like connecting people through tech
 - 💭 I'm currently exploring web development and mobile app development
 - 🖌️ Fun fact: I'm an artist! :)
 
