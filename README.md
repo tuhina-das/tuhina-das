@@ -1,6 +1,6 @@
 ## Hey there, I'm Tuhina! 🫶
 - ✨ I like connecting people through the things I make
-- 💭 I'm currently exploring web development and mobile app development
+- 💭 I'm currently exploring web dev, mobile app dev, and machine learning
 - 🖌️ Fun fact: I'm an artist! :)
 
 ## Let's connect! 🙌
