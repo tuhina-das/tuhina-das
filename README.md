@@ -5,7 +5,6 @@
 ## Let's connect! 🙌
 [<img src="https://i.pinimg.com/originals/83/66/f2/8366f23e06a9426e4bd58186e6193d91.png" alt="LinkedIn" width="100"/>](https://www.linkedin.com/in/tuhina-k-das/)
 [<img src="https://i.pinimg.com/originals/0a/ca/cf/0acacfe788e0d73a77db226f0fc9cbf5.png" alt="Email" width="100"/>](tuhinakdas@gmail.com)
-[<img src="https://cdn-icons-png.flaticon.com/512/5234/5234691.png" alt="Website" width="100"/>](https://tuhina-das.vercel.app/)
 <!--
 <!--
 **tuhina-das/tuhina-das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
