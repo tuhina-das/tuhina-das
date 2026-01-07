@@ -1,6 +1,6 @@
 ## Hey there, I'm Tuhina! 🫶
-- ✨ I like connecting people through the things I make
-- 💭 I'm currently exploring web dev, mobile app dev, and image detection
+- 🎓 UTCS '29
+- 💭 Currently exploring web dev, mobile app dev, and image detection
 
 ## Let's connect! 🙌
 [<img src="https://i.pinimg.com/originals/83/66/f2/8366f23e06a9426e4bd58186e6193d91.png" alt="LinkedIn" width="100"/>](https://www.linkedin.com/in/tuhina-k-das/)
